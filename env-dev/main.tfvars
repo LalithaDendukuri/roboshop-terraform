@@ -1,6 +1,6 @@
 
 components = {
-  default = {
+  d
     frontend = {
       name = "frontend"
       instance_type = "t3.micro"
@@ -52,8 +52,6 @@ components = {
 
     } */
 
-
-  }
 }
 
 security_group = [ "sg-0ae5a9e3d447a06e1" ]
